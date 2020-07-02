@@ -4,6 +4,6 @@
   "main": "index.js",
   "license": "MIT",
   "bin": {
-    "hello-cli": "index.js"
+    "lzn-react-cli": "index.js"
   }
 }
